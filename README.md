@@ -36,8 +36,7 @@ Party Rock App	App generativa construida usando PartyRock.ai (AWS Bedrock demo)	
 README.md → Este archivo principal
 
 ✍️ Autor
-👤 Tu nombre aquí
+👤 Héctor Acuña
 
 🗓 Fecha de inicio: 16 de julio de 2025
 
-🌐 Portafolio: (agrega link si tienes)
